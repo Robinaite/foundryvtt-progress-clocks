@@ -8,7 +8,7 @@ export class Clock {
         height: 350
     };
 
-    static themePath = 'modules/progress-clocks/themes';
+    static themePath = 'foundry/modules/progress-clocks/themes';
 
     static themes = {
         gms_red: `${Clock.themePath}/gms_red`,
